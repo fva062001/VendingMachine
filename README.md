@@ -1,2 +1,2 @@
 # VendingMachine
-Vending Machine made nn assembly
+Vending Machine made on assembly
